@@ -21,4 +21,6 @@ git log --pretty=format:" "
 git commit --amend
 git config --global core.editor notepad
 git config --global core.editor vim
+git restore --staged ""
+git restore ""
 
