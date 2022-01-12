@@ -23,4 +23,5 @@ git config --global core.editor notepad
 git config --global core.editor vim
 git restore --staged ""
 git restore ""
-
+git checkout -- filename
+git checkout -f
